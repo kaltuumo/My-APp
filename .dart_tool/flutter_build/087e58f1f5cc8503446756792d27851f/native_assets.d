@@ -1,0 +1,1 @@
+ /home/kaltuumo-haashi/Flutter\ Apps/flash_chat/.dart_tool/flutter_build/087e58f1f5cc8503446756792d27851f/native_assets.yaml: 
