@@ -5,23 +5,30 @@ com.example.flash_chat.app-core-runtime-2.2.0-3 /home/kaltuumo-haashi/.gradle/ca
 com.example.flash_chat.app-jetified-profileinstaller-1.3.1-4 /home/kaltuumo-haashi/.gradle/caches/transforms-3/408a642162969e960684d9c16b2f116a/transformed/jetified-profileinstaller-1.3.1/res
 com.example.flash_chat.app-jetified-lifecycle-process-2.7.0-5 /home/kaltuumo-haashi/.gradle/caches/transforms-3/40a1bd5ff2ce65cd1fad055cc690d356/transformed/jetified-lifecycle-process-2.7.0/res
 com.example.flash_chat.app-jetified-savedstate-1.2.1-6 /home/kaltuumo-haashi/.gradle/caches/transforms-3/40a45e686cd0e99ac2a33b1453f47939/transformed/jetified-savedstate-1.2.1/res
-com.example.flash_chat.app-jetified-core-1.0.0-7 /home/kaltuumo-haashi/.gradle/caches/transforms-3/61fbac9cdc1a22c54aa04ec76334a907/transformed/jetified-core-1.0.0/res
-com.example.flash_chat.app-lifecycle-livedata-core-2.7.0-8 /home/kaltuumo-haashi/.gradle/caches/transforms-3/6964f45bcdaad7c523c03595346078c4/transformed/lifecycle-livedata-core-2.7.0/res
-com.example.flash_chat.app-lifecycle-viewmodel-2.7.0-9 /home/kaltuumo-haashi/.gradle/caches/transforms-3/7b5a837770709484bd30395a2788a4e5/transformed/lifecycle-viewmodel-2.7.0/res
-com.example.flash_chat.app-lifecycle-livedata-2.7.0-10 /home/kaltuumo-haashi/.gradle/caches/transforms-3/82d8b2a7d9fca5e641d160069565b477/transformed/lifecycle-livedata-2.7.0/res
-com.example.flash_chat.app-jetified-window-1.2.0-11 /home/kaltuumo-haashi/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/res
-com.example.flash_chat.app-core-1.13.1-12 /home/kaltuumo-haashi/.gradle/caches/transforms-3/889ae3adf7a24645889ee22f4dad2cac/transformed/core-1.13.1/res
-com.example.flash_chat.app-jetified-window-java-1.2.0-13 /home/kaltuumo-haashi/.gradle/caches/transforms-3/8a650b2c5ea333036303d473a939db42/transformed/jetified-window-java-1.2.0/res
-com.example.flash_chat.app-jetified-core-ktx-1.13.1-14 /home/kaltuumo-haashi/.gradle/caches/transforms-3/8b9f2b08a8ef59d66d7e2f702c5ee30e/transformed/jetified-core-ktx-1.13.1/res
-com.example.flash_chat.app-jetified-activity-1.8.1-15 /home/kaltuumo-haashi/.gradle/caches/transforms-3/90da4fa7ab29bed17775e89b3905b1f1/transformed/jetified-activity-1.8.1/res
-com.example.flash_chat.app-jetified-startup-runtime-1.1.1-16 /home/kaltuumo-haashi/.gradle/caches/transforms-3/a1fd92b89d0c194f8fe8fdca4d20e2ee/transformed/jetified-startup-runtime-1.1.1/res
-com.example.flash_chat.app-jetified-annotation-experimental-1.4.0-17 /home/kaltuumo-haashi/.gradle/caches/transforms-3/c4537ab9015740d05f09a422063523a5/transformed/jetified-annotation-experimental-1.4.0/res
-com.example.flash_chat.app-fragment-1.7.1-18 /home/kaltuumo-haashi/.gradle/caches/transforms-3/ca4d40f38b71d4c621d36eba6fe2f4a4/transformed/fragment-1.7.1/res
-com.example.flash_chat.app-jetified-tracing-1.2.0-19 /home/kaltuumo-haashi/.gradle/caches/transforms-3/e896b9ac412a8814559a776dc7b5a420/transformed/jetified-tracing-1.2.0/res
-com.example.flash_chat.app-debug-20 /home/kaltuumo-haashi/Flutter Apps/flash_chat/android/app/src/debug/res
-com.example.flash_chat.app-main-21 /home/kaltuumo-haashi/Flutter Apps/flash_chat/android/app/src/main/res
-com.example.flash_chat.app-pngs-22 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/generated/res/pngs/debug
-com.example.flash_chat.app-resValues-23 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/generated/res/resValues/debug
-com.example.flash_chat.app-packageDebugResources-24 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.flash_chat.app-packageDebugResources-25 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.flash_chat.app-merged_res-26 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/intermediates/merged_res/debug
+com.example.flash_chat.app-jetified-play-services-base-18.5.0-7 /home/kaltuumo-haashi/.gradle/caches/transforms-3/5721d2dca1c20b34574c347f20f3254f/transformed/jetified-play-services-base-18.5.0/res
+com.example.flash_chat.app-jetified-core-1.0.0-8 /home/kaltuumo-haashi/.gradle/caches/transforms-3/61fbac9cdc1a22c54aa04ec76334a907/transformed/jetified-core-1.0.0/res
+com.example.flash_chat.app-lifecycle-livedata-core-2.7.0-9 /home/kaltuumo-haashi/.gradle/caches/transforms-3/6964f45bcdaad7c523c03595346078c4/transformed/lifecycle-livedata-core-2.7.0/res
+com.example.flash_chat.app-lifecycle-viewmodel-2.7.0-10 /home/kaltuumo-haashi/.gradle/caches/transforms-3/7b5a837770709484bd30395a2788a4e5/transformed/lifecycle-viewmodel-2.7.0/res
+com.example.flash_chat.app-lifecycle-livedata-2.7.0-11 /home/kaltuumo-haashi/.gradle/caches/transforms-3/82d8b2a7d9fca5e641d160069565b477/transformed/lifecycle-livedata-2.7.0/res
+com.example.flash_chat.app-jetified-window-1.2.0-12 /home/kaltuumo-haashi/.gradle/caches/transforms-3/8859fd2468ade3ef2655d1f63d6737f2/transformed/jetified-window-1.2.0/res
+com.example.flash_chat.app-core-1.13.1-13 /home/kaltuumo-haashi/.gradle/caches/transforms-3/889ae3adf7a24645889ee22f4dad2cac/transformed/core-1.13.1/res
+com.example.flash_chat.app-jetified-window-java-1.2.0-14 /home/kaltuumo-haashi/.gradle/caches/transforms-3/8a650b2c5ea333036303d473a939db42/transformed/jetified-window-java-1.2.0/res
+com.example.flash_chat.app-jetified-core-ktx-1.13.1-15 /home/kaltuumo-haashi/.gradle/caches/transforms-3/8b9f2b08a8ef59d66d7e2f702c5ee30e/transformed/jetified-core-ktx-1.13.1/res
+com.example.flash_chat.app-jetified-activity-1.8.1-16 /home/kaltuumo-haashi/.gradle/caches/transforms-3/90da4fa7ab29bed17775e89b3905b1f1/transformed/jetified-activity-1.8.1/res
+com.example.flash_chat.app-jetified-play-services-measurement-api-22.1.2-17 /home/kaltuumo-haashi/.gradle/caches/transforms-3/9ed58113e4b5359c5ab63d8910c31d43/transformed/jetified-play-services-measurement-api-22.1.2/res
+com.example.flash_chat.app-jetified-startup-runtime-1.1.1-18 /home/kaltuumo-haashi/.gradle/caches/transforms-3/a1fd92b89d0c194f8fe8fdca4d20e2ee/transformed/jetified-startup-runtime-1.1.1/res
+com.example.flash_chat.app-jetified-ads-adservices-java-1.0.0-beta05-19 /home/kaltuumo-haashi/.gradle/caches/transforms-3/a382fe1aa369cbdad2ff72ef1547e3ec/transformed/jetified-ads-adservices-java-1.0.0-beta05/res
+com.example.flash_chat.app-jetified-annotation-experimental-1.4.0-20 /home/kaltuumo-haashi/.gradle/caches/transforms-3/c4537ab9015740d05f09a422063523a5/transformed/jetified-annotation-experimental-1.4.0/res
+com.example.flash_chat.app-fragment-1.7.1-21 /home/kaltuumo-haashi/.gradle/caches/transforms-3/ca4d40f38b71d4c621d36eba6fe2f4a4/transformed/fragment-1.7.1/res
+com.example.flash_chat.app-jetified-play-services-basement-18.4.0-22 /home/kaltuumo-haashi/.gradle/caches/transforms-3/d0eaaf09591c103f6aef4a2fc790ee26/transformed/jetified-play-services-basement-18.4.0/res
+com.example.flash_chat.app-jetified-firebase-common-21.0.0-23 /home/kaltuumo-haashi/.gradle/caches/transforms-3/d5418937e91921d6f4990d3a8e405bf2/transformed/jetified-firebase-common-21.0.0/res
+com.example.flash_chat.app-jetified-tracing-1.2.0-24 /home/kaltuumo-haashi/.gradle/caches/transforms-3/e896b9ac412a8814559a776dc7b5a420/transformed/jetified-tracing-1.2.0/res
+com.example.flash_chat.app-jetified-ads-adservices-1.0.0-beta05-25 /home/kaltuumo-haashi/.gradle/caches/transforms-3/f08a4a2519950ad774fcfcd81925be2c/transformed/jetified-ads-adservices-1.0.0-beta05/res
+com.example.flash_chat.app-debug-26 /home/kaltuumo-haashi/Flutter Apps/flash_chat/android/app/src/debug/res
+com.example.flash_chat.app-main-27 /home/kaltuumo-haashi/Flutter Apps/flash_chat/android/app/src/main/res
+com.example.flash_chat.app-pngs-28 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/generated/res/pngs/debug
+com.example.flash_chat.app-res-29 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/generated/res/processDebugGoogleServices
+com.example.flash_chat.app-resValues-30 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/generated/res/resValues/debug
+com.example.flash_chat.app-packageDebugResources-31 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.flash_chat.app-packageDebugResources-32 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.flash_chat.app-merged_res-33 /home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/intermediates/merged_res/debug
