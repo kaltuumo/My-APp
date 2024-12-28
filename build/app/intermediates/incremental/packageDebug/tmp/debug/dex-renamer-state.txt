@@ -1,4 +1,4 @@
-#Mon Dec 23 23:24:04 EAT 2024
+#Fri Dec 27 19:26:19 EAT 2024
 base.0=/home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/intermediates/dex/debug/mergeLibDexDebug/0/classes.dex
 base.2=/home/kaltuumo-haashi/Flutter Apps/flash_chat/build/app/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
